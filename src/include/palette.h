@@ -8,6 +8,7 @@
 #include <map>
 #include <ostream>
 #include <string>
+#include <cstring>
 #include <unordered_map>
 #include <utility>
 #include <vector>
